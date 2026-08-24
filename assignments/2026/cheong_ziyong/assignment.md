@@ -1,7 +1,7 @@
 # WASP Software Engineering Course Assignment 2026
 
 <!--
-- deadline: 14:00 2026-09-01
+- deadline: 2026-09-01T14:00
 - 4–6 A4 pages
 - 11pt Times New Roman
 -->
@@ -33,7 +33,7 @@
 - will data scientists and software engineers remain distinct?
   - what about AI engineering?
   - is it software engineering for AI, systematic DS, MLOps, or something else?
-- discuss the role of foundation models, AI coding assistants, RAGs, prompt pipelines, and agentic workflows
+  - discuss the role of foundation models, AI coding assistants, RAGs, prompt pipelines, and agentic workflows
 -->
 
 ## Paper Analysis
@@ -58,7 +58,7 @@ one of the following
 - AI-assisted development
 - LLM/RAG/prompt evaluation
 - testing of ML/AI systems
-- agentic software development
+- agentic software engineering
 - AI system security/safety
 - technical debt in AI systems
 - software engineering for foundation-model-based systems
